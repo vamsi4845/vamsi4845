@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ChirpChat](https://github.com/vamsi4845/ChirpChat)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently exploring **Backend**
 
 - 💬 Ask me about **JavaScript,React,Next**
 
