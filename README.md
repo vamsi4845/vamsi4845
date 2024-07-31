@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [SAAS Tool](https://github.com/vamsi4845/ai-saas/commits/master/)
+- 🔭 I’m currently working on [Content AI](https://github.com/vamsi4845/content-ai)
 
 - 🌱 I’m currently exploring **Backend**
 
