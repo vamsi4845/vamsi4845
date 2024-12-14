@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Formly](https://github.com/vamsi4845/formly)
 
-- 🌱 I’m currently exploring **Backend**
-
 - 💬 Ask me about **JavaScript,React,Next**
 
 - 📫 How to reach me **vamsisai.karumuri@gmail.com**
